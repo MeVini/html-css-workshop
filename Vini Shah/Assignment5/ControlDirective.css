@@ -1,0 +1,19 @@
+section li p {
+  font-size: 16px; }
+
+aside li .link-0:before {
+  content: "0."; }
+aside li .link-1:before {
+  content: "1."; }
+aside li .link-2:before {
+  content: "2."; }
+aside li .link-3:before {
+  content: "3."; }
+aside li .link-4:before {
+  content: "4."; }
+aside li .link-5:before {
+  content: "5."; }
+aside li .link-6:before {
+  content: "6."; }
+
+/*# sourceMappingURL=ControlDirective.css.map */

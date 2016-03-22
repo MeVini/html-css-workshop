@@ -1,0 +1,13 @@
+@import "variable.scss";
+h3{
+ color: $color-red;
+ font-size: $header-size;
+}
+.image{
+    -webkit-transition: $trans-period;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px; 
+}

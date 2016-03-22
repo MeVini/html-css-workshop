@@ -1,0 +1,13 @@
+h3 {
+  color: red;
+  font-size: 32px; }
+
+.image {
+  -webkit-transition: 2s;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px; }
+
+/*# sourceMappingURL=style.css.map */

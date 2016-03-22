@@ -1,0 +1,26 @@
+@import "variable.scss";
+section{
+ li{
+	p{
+	   @if($header-size==32px){             
+          font-size:16px;
+        }
+	  }
+  }
+	}
+
+aside{
+	li{
+	
+
+      @while $i < 7{
+	.link-#{$i}:before{
+	  content: "#{$i}.";
+	  }
+	  $i: $i + 1;
+}
+
+
+	
+	}
+}	
